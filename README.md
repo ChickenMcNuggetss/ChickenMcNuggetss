@@ -1,5 +1,5 @@
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/gdAjJVguYwM0NL0BZN/giphy.gif?cid=790b7611wvutgxje6phvljff88h6yu5fma75m1rvf85vi9hm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"></h1>
-<h4 align="left"> How to reach me:</h4>
+<h2 align="left"> How to reach me:</h2>
 <div>
   <a href="mailto:7karina.ibr@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
 </div>
