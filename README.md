@@ -1,7 +1,8 @@
 <h1 align="left">Hi there<img src="https://media.giphy.com/media/gdAjJVguYwM0NL0BZN/giphy.gif?cid=790b7611wvutgxje6phvljff88h6yu5fma75m1rvf85vi9hm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"></h1>
 <h2 align="left"> How to reach me:</h2>
 <div>
-  <a href="mailto:7karina.ibr@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+  <a href="mailto:7karina.ibr@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-10122B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+  <a href="https://t.me/anotheronekarina" target="_blank"> <img src="https://img.shields.io/badge/Telegram-10122B?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a>
 </div>
 
 <h2> 🛠 Languages and Tools:</h2>
